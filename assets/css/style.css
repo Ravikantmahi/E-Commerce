@@ -1,0 +1,44 @@
+*{
+    scroll-behavior: smooth;
+}
+#navBrand {
+    font-weight: bold;
+    font-size: 5vh;
+}
+#navItem{
+    font-weight: bold;
+}
+.mySlides {display:none;
+    border: 5px solid;
+    margin:50px 50px 50px 20px;
+    min-height: 200px;
+    max-height: 500px;
+    max-width:95% ;
+    padding: 2%;
+}
+
+.product_img{ 
+    border-radius: 15px;
+}
+.CategoryImg,.product_img:hover{
+    transform: scale(1.2);
+    transition-duration: 0.8s;
+    border-radius: 15px;
+}
+a:hover {
+    color: green;
+  }
+.text-center{ 
+    padding: 10px;
+    border: 2px solid black;
+}
+.border-top{
+    text-align: center;
+}
+.fIcon{
+    width: 35px;
+    margin: 2px;
+    padding: 2px;
+    border: 1px solid white;
+    border-radius: 50px;
+}
