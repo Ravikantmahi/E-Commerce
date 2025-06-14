@@ -1,4 +1,5 @@
 # 🛒 My Shopping Website
+🔗 [Live Preview on Replit](https://replit.com/@Ravikantmahi/E-Commerce)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ravi%20Kant-0e76a8?style=flat-square&logo=vercel)](https://ravikantportfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Ravikantmahi-333?style=flat-square&logo=github)](https://github.com/Ravikantmahi)
@@ -101,6 +102,8 @@ The slider uses plain JavaScript for auto-rotation.
 🙋‍♂️ Author
 Ravi Kant
 🔗 Portfolio • GitHub
+🔗 [Live Preview on Replit](https://replit.com/@Ravikantmahi/E-Commerce)
+
 
 📜 License
 © 2023 Ravi Kant. All rights reserved.
